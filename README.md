@@ -51,6 +51,14 @@ These visuals support storytelling and insight-driven decision-making.
 🔧 Tools Used
 Microsoft Excel
 All analysis, regressions, charts, and return computations were conducted using built-in Excel functions and formulas (e.g., =SLOPE(), =STDEV.P(), =LN(), etc.)
+result
+<img width="1728" height="897" alt="Screenshot 2025-07-20 at 08 00 30" src="https://github.com/user-attachments/assets/81dc2c7b-f357-42d1-ab93-5141f40cc870" />
+<img width="1383" height="837" alt="Screenshot 2025-07-20 at 08 01 51" src="https://github.com/user-attachments/assets/34690d25-caaf-4360-a4d7-7511706f1e44" />
+<img width="1049" height="748" alt="Screenshot 2025-07-20 at 08 02 19" src="https://github.com/user-attachments/assets/dc5ef6b6-b578-435a-801e-052a83ba2fbb" />
+<img width="1181" height="714" alt="Screenshot 2025-07-20 at 08 02 46" src="https://github.com/user-attachments/assets/e6b6ba94-609c-4e4e-808b-aecb9d44581e" />
+<img width="1091" height="629" alt="Screenshot 2025-07-20 at 08 03 08" src="https://github.com/user-attachments/assets/a594fbc1-d34e-4d5f-9fe3-57e538f0f081" />
+<img width="1020" height="524" alt="Screenshot 2025-07-20 at 08 03 34" src="https://github.com/user-attachments/assets/b55a7404-0eb8-4f7a-afe3-e4561e1e5c35" />
+
 <img width="920" height="754" alt="Screenshot 2025-07-20 at 08 04 14" src="https://github.com/user-attachments/assets/21c7dea0-be0d-4509-a165-0692a901bd53" />
 
 No external tools or programming were required, making it ideal for Excel-savvy finance analysts.

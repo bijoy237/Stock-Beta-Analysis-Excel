@@ -51,6 +51,7 @@ These visuals support storytelling and insight-driven decision-making.
 🔧 Tools Used
 Microsoft Excel
 All analysis, regressions, charts, and return computations were conducted using built-in Excel functions and formulas (e.g., =SLOPE(), =STDEV.P(), =LN(), etc.)
+<img width="920" height="754" alt="Screenshot 2025-07-20 at 08 04 14" src="https://github.com/user-attachments/assets/21c7dea0-be0d-4509-a165-0692a901bd53" />
 
 No external tools or programming were required, making it ideal for Excel-savvy finance analysts.
 
